@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-27T04:43:01.777Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36 EdgA/117.0.2045.38" etag="Cj1Et-MkcTDgFnSipFzo" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-27T09:17:22.440Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.41" etag="BqKeZn6pfIloaD5rCmoa" version="21.8.2" type="github">
   <diagram name="第 1 页" id="Pw0bu2XJX0efayfi-Oyi">
-    <mxGraphModel dx="466" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1666" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,9 +80,6 @@
         <mxCell id="rBEMcl2NehsFxhfhoB2u-36" value="西安站（火车）" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="220" y="292.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rBEMcl2NehsFxhfhoB2u-53" value="市区内游玩" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="60" y="352.5" width="70" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="fsie3WsnsPSllkOvM6rk-2" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="340" y="292.5" width="70" height="55" as="geometry" />
         </mxCell>
@@ -94,6 +91,45 @@
         </mxCell>
         <mxCell id="fsie3WsnsPSllkOvM6rk-5" value="华山&lt;br&gt;（北上西下 索道）" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="600" y="292.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hEO00YENIk2VjsyRjTGp-7" value="第三天&lt;br&gt;10.1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hEO00YENIk2VjsyRjTGp-8" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="630" width="70" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="hEO00YENIk2VjsyRjTGp-9" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hEO00YENIk2VjsyRjTGp-10" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="630" width="70" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="hEO00YENIk2VjsyRjTGp-11" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hEO00YENIk2VjsyRjTGp-12" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="630" width="70" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="hEO00YENIk2VjsyRjTGp-13" value="陕西历史博物馆&lt;br&gt;(14:30-16:30 带身份证)" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hEO00YENIk2VjsyRjTGp-14" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=15;dx=38;notch=0;arrowHead=55;rounded=0;direction=south;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="720" y="310" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hEO00YENIk2VjsyRjTGp-15" value="返回西安&lt;br&gt;(乘大巴车?)" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hEO00YENIk2VjsyRjTGp-16" value="吃饭" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hEO00YENIk2VjsyRjTGp-17" value="回酒店休息" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="412.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hEO00YENIk2VjsyRjTGp-18" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;direction=west;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="610" y="410" width="70" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="hEO00YENIk2VjsyRjTGp-19" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;direction=west;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="412.5" width="70" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
